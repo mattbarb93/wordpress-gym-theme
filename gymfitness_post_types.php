@@ -48,7 +48,7 @@ function gymfitness_class_post_type() {
 	);
 	$args = array(
 		'label'                 => __( 'Class', 'gymfitness' ),
-		'description'           => __( 'Classes for GymFitness Website', 'gymfitness' ),
+		'description'           => __( 'Classesssss for GymFitness Website', 'gymfitness' ),
 		'labels'                => $labels,
 		'supports'              => array( 'title', 'editor', 'thumbnail' ),
 		'hierarchical'          => false, // False = posts - No child posts
